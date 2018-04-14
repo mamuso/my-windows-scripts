@@ -1,4 +1,4 @@
-﻿^!n::
+﻿#!n::
 if ( GetKeyState("CapsLock", "T") = 0 )
 Send, ñ
 else
@@ -6,6 +6,6 @@ Send, Ñ
 return
 
 
-^!+n::
+#!+n::
 Send, Ñ
 return
